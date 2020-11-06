@@ -1,0 +1,17 @@
+C:\Visual Studio\Projects\Birthday calculator\Birthday calculator\obj\Debug\netcoreapp3.1\Birthday calculator.AssemblyInfoInputs.cache
+C:\Visual Studio\Projects\Birthday calculator\Birthday calculator\obj\Debug\netcoreapp3.1\Birthday calculator.AssemblyInfo.cs
+C:\Visual Studio\Projects\Birthday calculator\Birthday calculator\obj\Debug\netcoreapp3.1\Birthday calculator.csproj.CoreCompileInputs.cache
+C:\Visual Studio\Projects\Birthday calculator\Birthday calculator\bin\Debug\netcoreapp3.1\Birthday calculator.exe
+C:\Visual Studio\Projects\Birthday calculator\Birthday calculator\bin\Debug\netcoreapp3.1\Birthday calculator.deps.json
+C:\Visual Studio\Projects\Birthday calculator\Birthday calculator\bin\Debug\netcoreapp3.1\Birthday calculator.runtimeconfig.json
+C:\Visual Studio\Projects\Birthday calculator\Birthday calculator\bin\Debug\netcoreapp3.1\Birthday calculator.runtimeconfig.dev.json
+C:\Visual Studio\Projects\Birthday calculator\Birthday calculator\bin\Debug\netcoreapp3.1\Birthday calculator.dll
+C:\Visual Studio\Projects\Birthday calculator\Birthday calculator\bin\Debug\netcoreapp3.1\Birthday calculator.pdb
+C:\Visual Studio\Projects\Birthday calculator\Birthday calculator\obj\Debug\netcoreapp3.1\Birthday calculator.dll
+C:\Visual Studio\Projects\Birthday calculator\Birthday calculator\obj\Debug\netcoreapp3.1\Birthday calculator.pdb
+C:\Visual Studio\Projects\Birthday calculator\Birthday calculator\obj\Debug\netcoreapp3.1\Birthday calculator.genruntimeconfig.cache
+C:\Visual Studio\Projects\Birthday calculator\Birthday calculator\obj\Debug\netcoreapp3.1\Birthday calculator.csprojAssemblyReference.cache
+C:\Visual Studio\Projects\Birthday calculator\Birthday calculator\bin\Debug\netcoreapp3.1\Hod Konem.exe
+C:\Visual Studio\Projects\Birthday calculator\Birthday calculator\bin\Debug\netcoreapp3.1\Hod Konem.dll
+C:\Visual Studio\Projects\Birthday calculator\Birthday calculator\bin\Debug\netcoreapp3.1\Hod Konem.pdb
+C:\Visual Studio\Projects\Birthday calculator\Birthday calculator\obj\Debug\netcoreapp3.1\Birthday calculator.csproj.CopyComplete
