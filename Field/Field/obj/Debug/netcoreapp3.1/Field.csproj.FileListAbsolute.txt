@@ -1,0 +1,13 @@
+C:\Visual Studio\Projects\Field\Field\obj\Debug\netcoreapp3.1\Field.csprojAssemblyReference.cache
+C:\Visual Studio\Projects\Field\Field\obj\Debug\netcoreapp3.1\Field.AssemblyInfoInputs.cache
+C:\Visual Studio\Projects\Field\Field\obj\Debug\netcoreapp3.1\Field.AssemblyInfo.cs
+C:\Visual Studio\Projects\Field\Field\obj\Debug\netcoreapp3.1\Field.csproj.CoreCompileInputs.cache
+C:\Visual Studio\Projects\Field\Field\bin\Debug\netcoreapp3.1\Field.exe
+C:\Visual Studio\Projects\Field\Field\bin\Debug\netcoreapp3.1\Field.deps.json
+C:\Visual Studio\Projects\Field\Field\bin\Debug\netcoreapp3.1\Field.runtimeconfig.json
+C:\Visual Studio\Projects\Field\Field\bin\Debug\netcoreapp3.1\Field.runtimeconfig.dev.json
+C:\Visual Studio\Projects\Field\Field\bin\Debug\netcoreapp3.1\Field.dll
+C:\Visual Studio\Projects\Field\Field\bin\Debug\netcoreapp3.1\Field.pdb
+C:\Visual Studio\Projects\Field\Field\obj\Debug\netcoreapp3.1\Field.dll
+C:\Visual Studio\Projects\Field\Field\obj\Debug\netcoreapp3.1\Field.pdb
+C:\Visual Studio\Projects\Field\Field\obj\Debug\netcoreapp3.1\Field.genruntimeconfig.cache
