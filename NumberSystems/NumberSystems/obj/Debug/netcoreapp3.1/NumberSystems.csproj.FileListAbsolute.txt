@@ -1,0 +1,13 @@
+C:\Visual Studio\Projects\NumberSystems\NumberSystems\bin\Debug\netcoreapp3.1\NumberSystems.exe
+C:\Visual Studio\Projects\NumberSystems\NumberSystems\bin\Debug\netcoreapp3.1\NumberSystems.deps.json
+C:\Visual Studio\Projects\NumberSystems\NumberSystems\bin\Debug\netcoreapp3.1\NumberSystems.runtimeconfig.json
+C:\Visual Studio\Projects\NumberSystems\NumberSystems\bin\Debug\netcoreapp3.1\NumberSystems.runtimeconfig.dev.json
+C:\Visual Studio\Projects\NumberSystems\NumberSystems\bin\Debug\netcoreapp3.1\NumberSystems.dll
+C:\Visual Studio\Projects\NumberSystems\NumberSystems\bin\Debug\netcoreapp3.1\NumberSystems.pdb
+C:\Visual Studio\Projects\NumberSystems\NumberSystems\obj\Debug\netcoreapp3.1\NumberSystems.csprojAssemblyReference.cache
+C:\Visual Studio\Projects\NumberSystems\NumberSystems\obj\Debug\netcoreapp3.1\NumberSystems.AssemblyInfoInputs.cache
+C:\Visual Studio\Projects\NumberSystems\NumberSystems\obj\Debug\netcoreapp3.1\NumberSystems.AssemblyInfo.cs
+C:\Visual Studio\Projects\NumberSystems\NumberSystems\obj\Debug\netcoreapp3.1\NumberSystems.csproj.CoreCompileInputs.cache
+C:\Visual Studio\Projects\NumberSystems\NumberSystems\obj\Debug\netcoreapp3.1\NumberSystems.dll
+C:\Visual Studio\Projects\NumberSystems\NumberSystems\obj\Debug\netcoreapp3.1\NumberSystems.pdb
+C:\Visual Studio\Projects\NumberSystems\NumberSystems\obj\Debug\netcoreapp3.1\NumberSystems.genruntimeconfig.cache
