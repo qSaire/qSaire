@@ -1,0 +1,13 @@
+C:\Visual Studio\Projects\Training№1\Training№1\bin\Debug\netcoreapp3.1\Training№1.exe
+C:\Visual Studio\Projects\Training№1\Training№1\bin\Debug\netcoreapp3.1\Training№1.deps.json
+C:\Visual Studio\Projects\Training№1\Training№1\bin\Debug\netcoreapp3.1\Training№1.runtimeconfig.json
+C:\Visual Studio\Projects\Training№1\Training№1\bin\Debug\netcoreapp3.1\Training№1.runtimeconfig.dev.json
+C:\Visual Studio\Projects\Training№1\Training№1\bin\Debug\netcoreapp3.1\Training№1.dll
+C:\Visual Studio\Projects\Training№1\Training№1\bin\Debug\netcoreapp3.1\Training№1.pdb
+C:\Visual Studio\Projects\Training№1\Training№1\obj\Debug\netcoreapp3.1\Training№1.csprojAssemblyReference.cache
+C:\Visual Studio\Projects\Training№1\Training№1\obj\Debug\netcoreapp3.1\Training№1.AssemblyInfoInputs.cache
+C:\Visual Studio\Projects\Training№1\Training№1\obj\Debug\netcoreapp3.1\Training№1.AssemblyInfo.cs
+C:\Visual Studio\Projects\Training№1\Training№1\obj\Debug\netcoreapp3.1\Training№1.csproj.CoreCompileInputs.cache
+C:\Visual Studio\Projects\Training№1\Training№1\obj\Debug\netcoreapp3.1\Training№1.dll
+C:\Visual Studio\Projects\Training№1\Training№1\obj\Debug\netcoreapp3.1\Training№1.pdb
+C:\Visual Studio\Projects\Training№1\Training№1\obj\Debug\netcoreapp3.1\Training№1.genruntimeconfig.cache
